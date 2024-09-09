@@ -4,4 +4,7 @@ cd ..  - backa ett steg
 ls - visa lista 
 mv  "oldname" "newname"- döpa om fil/mapp
 rm - ta bort
-mkdir " "  - skapa mapp
+mkdir " "  - skapa mapp      
+"Hello Farfar"
+<head> 
+</head>
